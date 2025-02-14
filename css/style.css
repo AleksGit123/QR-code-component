@@ -1,0 +1,41 @@
+body {
+    background-color: #d6e2f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.main-div {
+    background-color: #FFFFFF;
+    max-width: 320px;
+    width: 100%;
+    padding: 16px 16px 41px;
+    border-radius: 10px;
+}
+
+.qr-code-section {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.index-h2 {
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-style: outfit;
+    font-size: 21px;
+    text-align: center;
+    margin-block: 25px 16px;
+}
+
+.index-p {
+    font-family: "Outfit", serif;
+    font-weight: 500;
+    font-size: 15px;
+    color: #7B879D;
+    text-align: center;
+
+}
